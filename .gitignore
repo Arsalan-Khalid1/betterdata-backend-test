@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+
+# Static files
+/staticfiles/
+
+# Media files
+/media/
+
+# Database files
+*.sqlite3
+
+# Local development settings
+/local_settings.py
+
+# Log files
+*.log
+
+# macOS file metadata
+.DS_Store
+
+# PyCharm files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Visual Studio Code files
+.vscode/
